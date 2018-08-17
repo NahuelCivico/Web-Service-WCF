@@ -1,0 +1,6 @@
+C:\Users\nahue\source\repos\WCF\Web Service WCF\bin\Web Service WCF.dll.config
+C:\Users\nahue\source\repos\WCF\Web Service WCF\bin\Web Service WCF.dll
+C:\Users\nahue\source\repos\WCF\Web Service WCF\bin\Web Service WCF.pdb
+C:\Users\nahue\source\repos\WCF\Web Service WCF\obj\Debug\Web Service WCF.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\WCF\Web Service WCF\obj\Debug\Web Service WCF.dll
+C:\Users\nahue\source\repos\WCF\Web Service WCF\obj\Debug\Web Service WCF.pdb
